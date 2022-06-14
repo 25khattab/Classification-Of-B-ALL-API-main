@@ -1,0 +1,5 @@
+Pipfile.lock
+/models/CNN_model/*
+/models/transformer_model/*
+!/models/transformer_model/README.md
+!/models/CNN_model/README.md
